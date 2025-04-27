@@ -23,9 +23,8 @@ I am also passionate about **scientific data visualization** to translate comple
 
 This website serves as a portfolio of my research activities, including:
 - **Peer-reviewed publications**
-- **Preprints and manuscripts**
 - **Open-source projects**
-- **Selected highlights in transcriptomics and RNA biology**
+- **CV**
 
 ---
 

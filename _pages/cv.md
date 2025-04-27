@@ -9,56 +9,78 @@ redirect_from:
 
 {% include base_path %}
 
+
+Postdoctoral researcher with 8+ years of experience in microbiology, RNA sequencing, and bioinformatics.  
+Specialized in long-read transcriptomics using Oxford Nanopore platforms, with practical experience across multiple NGS technologies (Nanopore, PacBio, Illumina).  
+Passionate about translating complex biological data into actionable insights for research and diagnostics.  
+Strong background in bioinformatics pipelines for RNA and DNA sequencing projects.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Biology, University of Regensburg, 2021
+* Extracurricular IT education, 2016
+* M.Sc. in Biology, [University Name], 2016
+* B.Sc. in Biology, [University Name], 2013
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Development and optimization of NGS workflows
+* Bioinformatics and computational RNA biology
+* Nanopore sequencing technologies 
+* Prokaryotic transcriptomics
+* RNA processing and regulatory networks
+* Thermal stress response in extremophiles
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* 2021–Present: Postdoctoral Researcher
+  * University of Regensburg, German Archaea Centre
+  * Focus: Prokaryotic RNA biology, single-molecule sequencing, transcriptome architecture
+  * Duties included: Development of Nanopore sequencing protocols, bioinformatics analysis, interdisciplinary project collaboration
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2016–2021: Doctoral Researcher
+  * University of Regensburg
+  * Focus: Transcriptional and post-transcriptional processes in Archaea
+  * Duties included: RNA isolation, library preparation, sequencing data analysis, genome annotation, pipeline development
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Expertise in Oxford Nanopore sequencing (native RNA, cDNA, DNA)
+* Practical experience with PacBio and Illumina NGS platforms
+* Development, optimization, and validation of NGS workflows
+* Bioinformatics analysis:
+  * Sequence alignment (Minimap2, BWA)
+  * Transcriptome assembly (StringTie2, TAMA)
+  * Variant calling (SAMtools, NanoVar)
+  * RNA modification detection (Tombo, EpiNano)
+* Programming and pipelines (R, Python, Bash)
+* Data visualization 
+* Version control (Git, GitHub)
+
+NGS Platforms and Tools
+======
+* Nanopore: MinKNOW
+* Galaxy bioinformatics platform
+* Linux/Unix environment for data processing
+
+Project Management
+======
+* Leading NGS-related projects from design to reporting
+* Multi-team collaboration with biologists and bioinformaticians
+* Training and mentoring of junior researchers and students
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Co-supervision of Bachelor and Master thesis students
+* Contributor to open-source bioinformatics repositories
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* German (native)
+* English (full professional proficiency)
+
