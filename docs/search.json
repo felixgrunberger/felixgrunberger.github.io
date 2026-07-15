@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "expertise.html",
+    "href": "expertise.html",
+    "title": "Experimental science connected to quantitative analysis",
+    "section": "",
+    "text": "EXPERTISE\n\n\n\nMy work follows the complete path from a biological question to an interpretable result: experimental planning, molecular workflows, quality assessment, computational analysis and communication."
+  },
+  {
+    "objectID": "expertise.html#molecular-and-experimental-biology",
+    "href": "expertise.html#molecular-and-experimental-biology",
+    "title": "Experimental science connected to quantitative analysis",
+    "section": "Molecular and experimental biology",
+    "text": "Molecular and experimental biology\n\n\n\n01\n\n\nNucleic-acid workflows\nDNA and RNA extraction, PCR and RT-qPCR, sample preparation, magnetic-bead cleanup, size selection, quantification and integrity assessment.\n\n\n\n\n02\n\n\nMicrobiology\nCultivation and experimental work with bacterial and archaeal model systems, including aerobic, anaerobic and extremophilic organisms.\n\n\n\n\n03\n\n\nBiochemistry and functional assays\nCloning, recombinant protein expression, chromatographic purification, plate-reader assays, UV-based measurements and mass photometry."
+  },
+  {
+    "objectID": "expertise.html#analytical-workflow-development",
+    "href": "expertise.html#analytical-workflow-development",
+    "title": "Experimental science connected to quantitative analysis",
+    "section": "Analytical workflow development",
+    "text": "Analytical workflow development\n\n\n\n04\n\n\nMethod development\nSelection, adaptation and benchmarking of experimental approaches for non-standard samples, biological systems and research questions.\n\n\n\n\n05\n\n\nQuality and troubleshooting\nDefinition of sample-QC criteria, identification of workflow risks, technical troubleshooting and evidence-based method selection.\n\n\n\n\n06\n\n\nDocumentation and transfer\nStructured protocols, ELN-based tracking, technical documentation and clear handover between experimental and analytical stages."
+  },
+  {
+    "objectID": "expertise.html#sequencing-and-omics",
+    "href": "expertise.html#sequencing-and-omics",
+    "title": "Experimental science connected to quantitative analysis",
+    "section": "Sequencing and omics",
+    "text": "Sequencing and omics\n\n\n\n07\n\n\nIllumina sequencing\nRNA-seq, differential RNA-seq, Term-seq, ChIP-seq and related short-read approaches for transcriptome and regulatory analysis.\n\n\n\n\n08\n\n\nOxford Nanopore\nDNA, plasmid, cDNA and RNA sequencing, including library strategy, workflow benchmarking, transcript-boundary analysis and long-read interpretation.\n\n\n\n\n09\n\n\nMulti-omics integration\nCombination of transcriptomic, proteomic and complementary molecular datasets to identify regulatory patterns and connect changes across scales."
+  },
+  {
+    "objectID": "expertise.html#data-analysis-and-digital-workflows",
+    "href": "expertise.html#data-analysis-and-digital-workflows",
+    "title": "Experimental science connected to quantitative analysis",
+    "section": "Data analysis and digital workflows",
+    "text": "Data analysis and digital workflows\n\n\n\n10\n\n\nStatistical analysis in R\nR, tidyverse, Bioconductor and DESeq2 for data transformation, statistical evaluation, visualization and biological interpretation.\n\n\n\n\n11\n\n\nReproducible computation\nVersion-controlled analysis, Bash, Nextflow, Quarto and structured project organization for transparent and reusable workflows.\n\n\n\n\n12\n\n\nReporting and knowledge transfer\nPublication-quality figures, interactive Shiny applications, technical documentation, teaching and web-based scientific reporting.\n\n\n\n\nR / BioconductorNextflowBashPythonSQLQuartoShinyGit"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Scientific output",
+    "section": "",
+    "text": "PUBLICATIONS\n\n\n\nResearch articles and methods publications spanning RNA biology, molecular microbiology, sequencing technology, transcriptomics, proteomics and computational analysis.\n\nGoogle Scholar ORCID PubMed"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Scientific output",
+    "section": "2026",
+    "text": "2026\n\n\n\n2026Research article\n\n\nCsmR controls both, motility and cell shape, in Haloferax volcanii\n\nNußbaum P, Grünberger F, Neuschütz F, Chou K, Sivabalasarma S, Eulitz A, et al.\n\n\nPLoS Genetics 22(6): e1012198.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Scientific output",
+    "section": "2025",
+    "text": "2025\n\n\n\n2025Research article\n\n\nPan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome\n\nGarcia-Campos MA, Georgeson J, Nir R, Reichelt R, Fluke KA, Matzov D, Iyer V, Burkhart BW, Lui L, Kustanovich A, Grünberger F, et al.\n\n\nCell 188(24): 6825–6844.e28.\n\nDOI →\n\n\n\n\n2025Research article\n\n\nImpact of changed c-di-AMP levels and hypoosmotic stress on the transcriptome of Haloferax volcanii and on RCK domain-containing proteins\n\nRen H, Braun F, Grünberger F, van der Does C, Grohmann D, Albers S-V.\n\n\nmicroLife 6: uqaf037.\n\nDOI →\n\n\n\n\n2025Methods book\n\n\nSingle-Molecule Sequencing of RNA\n\nGrohmann D & Grünberger F.\n\n\nACS In Focus. American Chemical Society.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Scientific output",
+    "section": "2024",
+    "text": "2024\n\n\n\n2024Research article\n\n\nMinD2 modulates cell shape and motility in the archaeon Haloferax volcanii\n\nPatro M, Grünberger F, Sivabalasarma S, Gfrerer S, Rodriguez-Franco M, Nußbaum P, et al.\n\n\nFrontiers in Microbiology 15: 1474570.\n\nDOI →\n\n\n\n\n2024Research article\n\n\nStructural basis of archaeal RNA polymerase transcription elongation and Spt4/5 recruitment\n\nTarău D, Grünberger F, Pilsl M, Reichelt R, Heiß F, König S, Urlaub H, Hausner W, Engel C, Grohmann D.\n\n\nNucleic Acids Research 52(10): 6017–6035.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Scientific output",
+    "section": "2023",
+    "text": "2023\n\n\n\n2023Research article\n\n\nUncovering the temporal dynamics and regulatory networks of thermal stress response in a hyperthermophile using transcriptomics and proteomics\n\nGrünberger F, Schmid G, El Ahmad Z, Fenk M, Vogl K, Reichelt R, Hausner W, Urlaub H, Lenz C, Grohmann D.\n\n\nmBio 14(6): e02174-23.\n\nDOI →\n\n\n\n\n2023Research article\n\n\nNanopore-based RNA sequencing deciphers the formation, processing, and modification steps of rRNA intermediates in archaea\n\nGrünberger F, Jüttner M, Knüppel R, Ferreira-Cerca S, Grohmann D.\n\n\nRNA 29: 1255–1273.\n\nDOI →\n\n\n\n\n2023Research article\n\n\nThe transcriptional regulator EarA and intergenic terminator sequences modulate archaellation in Pyrococcus furiosus\n\nStöckl R, Nißl L, Reichelt R, Rachel R, Grohmann D, Grünberger F.\n\n\nFrontiers in Microbiology 14: 1241399.\n\nDOI →\n\n\n\n\n2023Research article\n\n\nThe archaeal Lsm protein from Pyrococcus furiosus binds co-transcriptionally to poly(U)-rich target RNAs\n\nReichelt R, Rothmeier T, Grünberger F, Willkomm S, Bruckmann A, Hausner W, et al.\n\n\nBiological Chemistry 404: 1085–1100.\n\nDOI →\n\n\n\n\n2023Research article\n\n\nTranscriptional and translational dynamics underlying heat shock response in the thermophilic crenarchaeon Sulfolobus acidocaldarius\n\nBaes R, Grünberger F, Pyr Dit Ruys S, Couturier M, De Keulenaer S, Skevin S, Van Nieuwerburgh F, Vertommen D, Peeters E.\n\n\nmBio 14(5): e03593-22.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Scientific output",
+    "section": "2022",
+    "text": "2022\n\n\n\n2022Research article\n\n\nMethanofollis propanolicus sp. nov., a novel archaeal isolate from a Costa Rican oil well that uses propanol for methane production\n\nDengler L, Meier J, Grünberger F, Bellack A, Rachel R, Grohmann D, Huber H.\n\n\nArchives of Microbiology 204: 554.\n\nDOI →\n\n\n\n\n2022Research article\n\n\nNanopore sequencing of RNA and cDNA molecules in Escherichia coli\n\nGrünberger F, Ferreira-Cerca S, Grohmann D.\n\n\nRNA 28: 400–417.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Scientific output",
+    "section": "2021",
+    "text": "2021\n\n\n\n2021Research article\n\n\nInsights into synthesis and function of KsgA/Dim1-dependent rRNA modifications in archaea\n\nKnüppel R, Trahan C, Kern M, Wagner A, Grünberger F, Hausner W, Quax TEF, Albers S-V, Oeffinger M, Ferreira-Cerca S.\n\n\nNucleic Acids Research 49: 1662–1687.\n\nDOI →\n\n\n\n\n2021Review\n\n\nCoupling of transcription and translation in archaea: cues from the bacterial world\n\nWeixlbaumer A, Grünberger F, Werner F, Grohmann D.\n\n\nFrontiers in Microbiology 12: 661827.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Scientific output",
+    "section": "2020",
+    "text": "2020\n\n\n\n2020Research article\n\n\nCopR, a global regulator of transcription to maintain copper homeostasis in Pyrococcus furiosus\n\nGrünberger F, Reichelt R, Waege I, Ned V, Bronner K, Kaljanac M, Weber N, El Ahmad Z, Knauss L, et al.\n\n\nFrontiers in Microbiology 11: 613532.\n\nDOI →"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Scientific output",
+    "section": "2019",
+    "text": "2019\n\n\n\n2019Research article\n\n\nNext generation DNA-seq and differential RNA-seq allow re-annotation of the Pyrococcus furiosus DSM 3638 genome and provide insights into archaeal antisense transcription\n\nGrünberger F, Reichelt R, Bunk B, Spröer C, Overmann J, Rachel R, Grohmann D.\n\n\nFrontiers in Microbiology 10: 1603.\n\nDOI →\n\n\n\n\nThis page lists final journal publications and the ACS methods book. Preprints and the doctoral dissertation are intentionally excluded."
+  },
+  {
+    "objectID": "qa/QA_REPORT.html",
+    "href": "qa/QA_REPORT.html",
+    "title": "QA report — refined light portfolio",
+    "section": "",
+    "text": "Every page background is full-bleed: Quarto page wrappers, hero, content sections and footer span the complete viewport width.\nThe desktop hero fills the visible viewport below the pinned header; tablet and mobile use natural content height.\nThe palette is now neutral navy, slate and muted steel blue, with no saturated turquoise or mint panels.\nThe workflow remains interactive by hover, click, keyboard and automatic cycling.\nActive workflow states stay fully inside their row boxes: no translation, rotation or scaling can push icons or labels outside.\nThe active row uses an internal left accent and bottom progress line; response text cross-fades without changing the box dimensions.\nHeader spacing, horizontal overflow and workflow bounds were checked at 1536, 1280, 1024, 390 and 360 px.\n\n\n\n\n\nSource QA: passed.\nHorizontal overflow: 0 px at all tested sizes.\nHero background: exactly viewport width at all tested sizes.\nWorkflow markers and active-state animation: within row and panel bounds at all tested sizes.\nPinned header does not overlap the hero.\n\nThe project remains neutrally positioned as a scientific portfolio and contains no explicit job-search language."
+  },
+  {
+    "objectID": "qa/QA_REPORT.html#changes-verified",
+    "href": "qa/QA_REPORT.html#changes-verified",
+    "title": "QA report — refined light portfolio",
+    "section": "",
+    "text": "Every page background is full-bleed: Quarto page wrappers, hero, content sections and footer span the complete viewport width.\nThe desktop hero fills the visible viewport below the pinned header; tablet and mobile use natural content height.\nThe palette is now neutral navy, slate and muted steel blue, with no saturated turquoise or mint panels.\nThe workflow remains interactive by hover, click, keyboard and automatic cycling.\nActive workflow states stay fully inside their row boxes: no translation, rotation or scaling can push icons or labels outside.\nThe active row uses an internal left accent and bottom progress line; response text cross-fades without changing the box dimensions.\nHeader spacing, horizontal overflow and workflow bounds were checked at 1536, 1280, 1024, 390 and 360 px."
+  },
+  {
+    "objectID": "qa/QA_REPORT.html#automated-results",
+    "href": "qa/QA_REPORT.html#automated-results",
+    "title": "QA report — refined light portfolio",
+    "section": "",
+    "text": "Source QA: passed.\nHorizontal overflow: 0 px at all tested sizes.\nHero background: exactly viewport width at all tested sizes.\nWorkflow markers and active-state animation: within row and panel bounds at all tested sizes.\nPinned header does not overlap the hero.\n\nThe project remains neutrally positioned as a scientific portfolio and contains no explicit job-search language."
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Scientific questions approached across experiments and data",
+    "section": "",
+    "text": "SELECTED PROJECTS\n\n\n\nThese examples focus on the reasoning behind a workflow: what needed to be measured, how the method was adapted, how data quality was assessed and how the results were interpreted."
+  },
+  {
+    "objectID": "work.html#long-read-rna-biology",
+    "href": "work.html#long-read-rna-biology",
+    "title": "Scientific questions approached across experiments and data",
+    "section": "Long-read RNA biology",
+    "text": "Long-read RNA biology\n\n\n\n\nSINGLE-MOLECULE SEQUENCING\n\n\nResolving RNA heterogeneity and processing\nLong-read approaches make it possible to observe transcript boundaries, combinations of processing events and complete RNA intermediates on individual molecules.\n\n\n\nQuestion\nHow can single-molecule sequencing be adapted to reveal the formation and maturation of prokaryotic RNA molecules?\nApproach\nDevelopment and benchmarking of Nanopore RNA and cDNA workflows, including sample preparation, library strategy, depletion concepts, quality control and computational analysis.\nContribution\nExperimental workflow development, sequencing strategy, analysis design, visualization and interpretation across bacterial and archaeal systems.\nOutcome\nWorkflows that resolve RNA ends, processing intermediates and molecular heterogeneity beyond conventional short-read summaries."
+  },
+  {
+    "objectID": "work.html#multi-omics-stress-response",
+    "href": "work.html#multi-omics-stress-response",
+    "title": "Scientific questions approached across experiments and data",
+    "section": "Multi-omics stress response",
+    "text": "Multi-omics stress response\n\n\n\n\nTRANSCRIPTOMICS × PROTEOMICS\n\n\nFollowing dynamic cellular responses across molecular layers\nTranscript and protein abundance can change with different kinetics and reveal complementary aspects of cellular adaptation.\n\n\n\nQuestion\nHow do prokaryotic cells coordinate transcriptional and translational responses during environmental stress and recovery?\nApproach\nTime-resolved transcriptomics and proteomics, supported by transcript-boundary mapping, statistical modelling and integrated visualization.\nContribution\nStudy design, sequencing strategy, statistical evaluation, multi-omics integration and reconstruction of regulatory responses.\nOutcome\nA time-resolved view of stress adaptation distinguishing immediate transcriptional regulation from delayed protein-level responses."
+  },
+  {
+    "objectID": "work.html#quality-aware-workflows",
+    "href": "work.html#quality-aware-workflows",
+    "title": "Scientific questions approached across experiments and data",
+    "section": "Quality-aware molecular workflows",
+    "text": "Quality-aware molecular workflows\n\n\n\n\nSAMPLE QC × WORKFLOW EVALUATION\n\n\nDesigning workflows around data quality and practical use\nA technically successful run is not enough if sample quality, method fit, documentation and downstream interpretation are not considered together.\n\n\n\nQuestion\nHow can sequencing and molecular workflows be evaluated before they are used for difficult samples or collaborative applications?\nApproach\nAssessment of sample purity and integrity, input requirements, library strategies, expected coverage, controls, data handover and routine-use risks.\nContribution\nTechnical consultation, workflow planning, sample-QC assessment, troubleshooting, data interpretation and methods documentation across academic and industry collaborations.\nOutcome\nClearer go/no-go decisions, more realistic experimental expectations and traceable handover from sample preparation to analysis."
+  },
+  {
+    "objectID": "work.html#reproducible-analytical-workflows",
+    "href": "work.html#reproducible-analytical-workflows",
+    "title": "Scientific questions approached across experiments and data",
+    "section": "Reproducible analytical workflows",
+    "text": "Reproducible analytical workflows\n\n\n\n\nR × QUARTO × WORKFLOW AUTOMATION\n\n\nMaking complex analyses reusable and communicable\nAn analysis is most useful when its assumptions, transformations and outputs remain understandable after the first result has been generated.\n\n\n\nQuestion\nHow can data-intensive projects remain transparent while datasets, collaborators and analytical questions evolve?\nApproach\nModular R analysis, version control, parameterized reporting, reusable visualizations and structured computational pipelines.\nContribution\nDevelopment of analysis templates, automated reports, dashboards and documented project structures used across collaborative projects.\nOutcome\nFaster iteration, clearer quality checks and more consistent communication between experimental and computational contributors."
+  },
+  {
+    "objectID": "work.html#molecular-and-biochemical-assay-development",
+    "href": "work.html#molecular-and-biochemical-assay-development",
+    "title": "Scientific questions approached across experiments and data",
+    "section": "Molecular and biochemical assay development",
+    "text": "Molecular and biochemical assay development\n\n\n\n\nMOLECULAR BIOLOGY × BIOCHEMISTRY\n\n\nTranslating mechanistic questions into measurable assays\nExperimental systems are most useful when readouts, controls and analytical limits are designed around the biological question.\n\n\n\nQuestion\nHow can transcriptional, translational and protein-level mechanisms be tested in controlled experimental systems?\nApproach\nCloning, recombinant protein expression and purification, in vitro workflows, plate-reader assays, qPCR and complementary biophysical measurements.\nContribution\nAssay design, method establishment, optimization, quantitative evaluation and supervision of experimental implementation.\nOutcome\nPractical experimental systems connecting molecular mechanisms with quantitative and reproducible readouts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Connecting molecular experiments with reliable, interpretable data",
+    "section": "",
+    "text": "MOLECULAR BIOLOGY · ANALYTICAL WORKFLOWS · DATA\n\n\n\nI combine experimental biology with sequencing and quantitative analysis to generate high-quality data from complex biological systems.\nMy work spans experimental design, sample quality, workflow development, analysis and communication — with a focus on robust methods and clear biological interpretation.\n\nExperimental biology Sequencing & omics Data analysis Reproducible workflows\n\n\nSelected projects Publications\n\n\n\n\n\n\n\n\nFROM QUESTION TO INTERPRETATION\n\n\nMove through the steps to see how experiments and analysis connect.\n\n\n\n\n\n\n\n\n\n\n\n01  Experimental systemsMolecular biology · Microbiology · Biochemistry\n\n\n02  Molecular workflowsSample preparation · Sequencing · Quality control\n\n\n03  Data quality & analysisOmics · Statistics · Reproducible workflows\n\n\n04  Interpretation & communicationVisualization · Documentation · Knowledge transfer\n\n\n\nCURRENT FOCUSDefine the question, controls and readouts that make the experiment interpretable."
+  },
+  {
+    "objectID": "index.html#from-molecular-systems-to-interpretable-data",
+    "href": "index.html#from-molecular-systems-to-interpretable-data",
+    "title": "Connecting molecular experiments with reliable, interpretable data",
+    "section": "From molecular systems to interpretable data",
+    "text": "From molecular systems to interpretable data\nA broad experimental foundation combined with quantitative analysis, quality-aware workflow development and reproducible scientific computing.\n\n\n\n\n\n\n\n\nMolecular & experimental biology\nExperimental design across molecular biology, microbiology and biochemistry, including nucleic-acid, protein and functional assays.\n\nMolecular biologyMicrobiologyAssays\n\n\n\n\n\n\n\n\n\n\nAnalytical workflow development\nMethod selection, sample preparation, QC criteria, troubleshooting and adaptation to non-standard biological systems.\n\nSample prepQCMethod development\n\n\n\n\n\n\n\n\n\n\nSequencing & omics\nShort- and long-read workflows for DNA and RNA, from sample preparation and quality control to analysis-ready data.\n\nIlluminaNanoporeTranscriptomics\n\n\n\n\n\n\n\n\n\n\nData analysis & reproducible workflows\nStatistical analysis, visualization and biological interpretation using R, Bioconductor and complementary computational tools.\n\nR / BioconductorStatisticsQuarto\n\n\n\n\n\nExplore methods and expertise →"
+  },
+  {
+    "objectID": "index.html#work-built-around-questions-quality-and-interpretation",
+    "href": "index.html#work-built-around-questions-quality-and-interpretation",
+    "title": "Connecting molecular experiments with reliable, interpretable data",
+    "section": "Work built around questions, quality and interpretation",
+    "text": "Work built around questions, quality and interpretation\nEach project connects the biological question with the method, the data-quality strategy and the way results are communicated.\n\n\n\n\nSINGLE-MOLECULE SEQUENCING\n\n\nResolving RNA heterogeneity and processing\nNanopore RNA and cDNA workflows developed to reveal transcript boundaries, processing intermediates and complete molecular states.\nView project →\n\n\n\n\n\nTRANSCRIPTOMICS × PROTEOMICS\n\n\nFollowing stress responses across molecular layers\nTime-resolved integration of transcript and protein data to distinguish immediate regulation from delayed cellular responses.\nView project →\n\n\n\n\n\nSAMPLE QC × WORKFLOW EVALUATION\n\n\nDesigning workflows around data quality\nSample integrity, method fit, controls and documentation considered together before complex workflows move into routine use.\nView project →\n\n\n\n\nSee all selected projects →"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Connecting molecular experiments with reliable, interpretable data",
+    "section": "Selected publications",
+    "text": "Selected publications\n\n\n\n2026 · PLOS Genetics\n\n\nCsmR controls motility and cell shape in Haloferax volcanii\nComparative transcriptomics and ChIP-seq identify a regulator connecting archaeal motility and morphology.\nOpen publication →\n\n\n\n\n2025 · Cell\n\n\nPan-modification profiling of the thermoregulated ribosomal epitranscriptome\nCross-species analysis of dynamic ribosomal RNA modifications and thermal adaptation.\nOpen publication →\n\n\n\n\n2025 · ACS In Focus\n\n\nSingle-Molecule Sequencing of RNA\nA methods-focused guide to RNA sequencing using single-molecule technologies.\nOpen publication →\n\n\n\n\nView complete publication list →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Molecular biology viewed across experiments and data",
+    "section": "",
+    "text": "ABOUT\n\n\n\nI am a molecular biologist working at the interface of microbiology, biochemistry, sequencing technology and computational analysis."
+  },
+  {
+    "objectID": "about.html#scientific-profile",
+    "href": "about.html#scientific-profile",
+    "title": "Molecular biology viewed across experiments and data",
+    "section": "Scientific profile",
+    "text": "Scientific profile\nMy research focuses on how prokaryotic cells organize, process and regulate genetic information. I use molecular experiments, short- and long-read sequencing, quantitative analysis and visualization to study transcription, RNA maturation and cellular responses.\nA recurring theme in my work is the development of methods that connect experimental observations with genome-scale data. This includes adapting sequencing workflows to non-standard biological systems, defining quality criteria, building reproducible analytical pipelines and communicating complex results across disciplines.\nI currently work as an Academic Officer at the University of Regensburg’s Microbiology and Archaea Centre, contributing to research, teaching, project development and the supervision of students and researchers."
+  },
+  {
+    "objectID": "about.html#research-approach",
+    "href": "about.html#research-approach",
+    "title": "Molecular biology viewed across experiments and data",
+    "section": "Research approach",
+    "text": "Research approach\nI treat laboratory methods and computational analysis as parts of the same scientific workflow. Experimental choices determine the data that can be generated, while analytical decisions determine which conclusions those data can support.\nThis perspective has shaped projects ranging from genome annotation and transcriptional regulation to long-read RNA sequencing, multi-omics analysis and reproducible scientific reporting."
+  },
+  {
+    "objectID": "about.html#teaching-and-knowledge-transfer",
+    "href": "about.html#teaching-and-knowledge-transfer",
+    "title": "Molecular biology viewed across experiments and data",
+    "section": "Teaching and knowledge transfer",
+    "text": "Teaching and knowledge transfer\nI teach molecular microbiology, bioinformatics, statistics and sequencing workflows. I have organized practical courses in Nanopore sequencing and mentored more than 20 students and researchers in experimental design, data analysis and reproducible workflows."
+  }
+]

@@ -1,0 +1,12 @@
+---
+title: "Page not found"
+page-layout: full
+---
+
+::: {.page-hero .page-hero-compact}
+<div class="eyebrow">404</div>
+
+# This page could not be found
+
+[Return to the homepage](index.qmd){.btn .btn-primary}
+:::

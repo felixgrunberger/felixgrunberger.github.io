@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - robots.txt
+    - .nojekyll
+    - images/**
+    - includes/**
+    - site.js
+
+website:
+  title: "Felix Grünberger, PhD"
+  description: "Scientific portfolio connecting molecular biology, analytical workflows, sequencing and reproducible data analysis."
+  site-url: "https://felixgrunberger.github.io"
+  favicon: images/favicon.svg
+  open-graph:
+    image: images/social-preview.png
+  twitter-card:
+    image: images/social-preview.png
+    card-style: summary_large_image
+  navbar:
+    background: light
+    pinned: true
+    collapse-below: lg
+    right:
+      - href: index.qmd
+        text: Home
+      - href: expertise.qmd
+        text: Expertise
+      - href: work.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+  page-footer:
+    border: true
+    left: "© 2026 Felix Grünberger"
+    right:
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/felix-gr%C3%BCnberger-b93455111"
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?hl=en&user=3UYj2osAAAAJ"
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0001-7444-2408"
+      - text: "GitHub"
+        href: "https://github.com/felixgrunberger"
+      - text: "Email"
+        href: "mailto:felix-gruenberger@web.de"
+  search: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    include-in-header: includes/head.html
+    include-after-body: includes/after-body.html
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false
+    lang: en
+
+execute:
+  freeze: auto
+
+editor: visual

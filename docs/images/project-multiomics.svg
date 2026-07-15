@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+<title id="title">Multi-omics integration</title><desc id="desc">Transcript and protein dynamics over time</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfcfd"/><stop offset="1" stop-color="#edf3f7"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#315f7a"/><stop offset="1" stop-color="#6f9fb4"/></linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#2c4f66" flood-opacity=".10"/></filter>
+</defs>
+<rect width="720" height="405" rx="28" fill="url(#bg)"/>
+<g opacity=".4" stroke="#cbdde6" stroke-width="1"><path d="M0 45H720"/><path d="M0 90H720"/><path d="M0 135H720"/><path d="M0 180H720"/><path d="M0 225H720"/><path d="M0 270H720"/><path d="M0 315H720"/><path d="M0 360H720"/><path d="M0 405H720"/><path d="M45 0V405"/><path d="M90 0V405"/><path d="M135 0V405"/><path d="M180 0V405"/><path d="M225 0V405"/><path d="M270 0V405"/><path d="M315 0V405"/><path d="M360 0V405"/><path d="M405 0V405"/><path d="M450 0V405"/><path d="M495 0V405"/><path d="M540 0V405"/><path d="M585 0V405"/><path d="M630 0V405"/><path d="M675 0V405"/><path d="M720 0V405"/></g>
+<circle cx="622" cy="72" r="90" fill="#e5eef4" opacity=".7"/>
+<circle cx="94" cy="340" r="110" fill="#f0f5f8" opacity=".9"/>
+
+<g filter="url(#shadow)"><rect x="96" y="120" width="528" height="208" rx="24" fill="white" stroke="#d5e2ea"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M132 273L205 238L273 253L342 180L414 205L486 154L588 182" stroke="#315f7a" stroke-width="6"/>
+<path d="M132 286L205 279L273 232L342 243L414 191L486 214L588 151" stroke="#6f9eb3" stroke-width="6"/>
+</g>
+<g fill="#315f7a"><circle cx="132" cy="273" r="7"/><circle cx="205" cy="238" r="7"/><circle cx="273" cy="253" r="7"/><circle cx="342" cy="180" r="7"/><circle cx="414" cy="205" r="7"/><circle cx="486" cy="154" r="7"/><circle cx="588" cy="182" r="7"/></g>
+<g fill="#6f9eb3"><circle cx="132" cy="286" r="7"/><circle cx="205" cy="279" r="7"/><circle cx="273" cy="232" r="7"/><circle cx="342" cy="243" r="7"/><circle cx="414" cy="191" r="7"/><circle cx="486" cy="214" r="7"/><circle cx="588" cy="151" r="7"/></g>
+<path d="M132 302H588M132 302V146" stroke="#a9bbc6" stroke-width="2"/>
+<text x="140" y="320" fill="#7d8b99" font-family="Inter,Arial" font-size="12">time</text>
+<g font-family="Inter,Arial" font-size="13" font-weight="700"><rect x="466" y="272" width="14" height="4" rx="2" fill="#315f7a"/><text x="488" y="278" fill="#405c70">RNA</text><rect x="536" y="272" width="14" height="4" rx="2" fill="#6f9eb3"/><text x="558" y="278" fill="#405c70">protein</text></g>
+
+<text x="48" y="58" fill="#315f7a" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">MULTI-OMICS INTEGRATION</text>
+<text x="48" y="84" fill="#647587" font-family="Inter,Arial,sans-serif" font-size="14">Transcript and protein dynamics over time</text>
+</svg>

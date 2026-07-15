@@ -1,0 +1,244 @@
+---
+pagetitle: "Publications | Felix Grünberger"
+description: "Complete publication list of Felix Grünberger in RNA biology, molecular microbiology, sequencing technology and omics."
+page-layout: full
+---
+
+::: {.page-hero}
+<div class="eyebrow">PUBLICATIONS</div>
+
+# Scientific output
+
+Research articles and methods publications spanning RNA biology, molecular microbiology, sequencing technology, transcriptomics, proteomics and computational analysis.
+
+::: {.profile-links}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=3UYj2osAAAAJ){.profile-link}
+[ORCID](https://orcid.org/0000-0001-7444-2408){.profile-link}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=felix+gr%C3%BCnberger){.profile-link}
+:::
+:::
+
+::: {.content-section .publications-content}
+<div class="publication-stat">16 peer-reviewed journal articles · 1 methods book · preprints excluded</div>
+
+## 2026
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2026</span><span class="publication-badge">Research article</span></div>
+
+### CsmR controls both, motility and cell shape, in *Haloferax volcanii*
+
+<div class="publication-authors">Nußbaum P, <strong>Grünberger F</strong>, Neuschütz F, Chou K, Sivabalasarma S, Eulitz A, et al.</div>
+<div class="publication-journal"><em>PLoS Genetics</em> 22(6): e1012198.</div>
+
+[DOI →](https://doi.org/10.1371/journal.pgen.1012198)
+:::
+:::
+
+## 2025
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2025</span><span class="publication-badge">Research article</span></div>
+
+### Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome
+
+<div class="publication-authors">Garcia-Campos MA, Georgeson J, Nir R, Reichelt R, Fluke KA, Matzov D, Iyer V, Burkhart BW, Lui L, Kustanovich A, <strong>Grünberger F</strong>, et al.</div>
+<div class="publication-journal"><em>Cell</em> 188(24): 6825–6844.e28.</div>
+
+[DOI →](https://doi.org/10.1016/j.cell.2025.09.014)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2025</span><span class="publication-badge">Research article</span></div>
+
+### Impact of changed c-di-AMP levels and hypoosmotic stress on the transcriptome of *Haloferax volcanii* and on RCK domain-containing proteins
+
+<div class="publication-authors">Ren H, Braun F, <strong>Grünberger F</strong>, van der Does C, Grohmann D, Albers S-V.</div>
+<div class="publication-journal"><em>microLife</em> 6: uqaf037.</div>
+
+[DOI →](https://doi.org/10.1093/femsml/uqaf037)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2025</span><span class="publication-badge publication-badge-book">Methods book</span></div>
+
+### Single-Molecule Sequencing of RNA
+
+<div class="publication-authors">Grohmann D & <strong>Grünberger F</strong>.</div>
+<div class="publication-journal"><em>ACS In Focus</em>. American Chemical Society.</div>
+
+[DOI →](https://doi.org/10.1021/acsinfocus.7e9002)
+:::
+:::
+
+## 2024
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2024</span><span class="publication-badge">Research article</span></div>
+
+### MinD2 modulates cell shape and motility in the archaeon *Haloferax volcanii*
+
+<div class="publication-authors">Patro M, <strong>Grünberger F</strong>, Sivabalasarma S, Gfrerer S, Rodriguez-Franco M, Nußbaum P, et al.</div>
+<div class="publication-journal"><em>Frontiers in Microbiology</em> 15: 1474570.</div>
+
+[DOI →](https://doi.org/10.3389/fmicb.2024.1474570)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2024</span><span class="publication-badge">Research article</span></div>
+
+### Structural basis of archaeal RNA polymerase transcription elongation and Spt4/5 recruitment
+
+<div class="publication-authors">Tarău D, <strong>Grünberger F</strong>, Pilsl M, Reichelt R, Heiß F, König S, Urlaub H, Hausner W, Engel C, Grohmann D.</div>
+<div class="publication-journal"><em>Nucleic Acids Research</em> 52(10): 6017–6035.</div>
+
+[DOI →](https://doi.org/10.1093/nar/gkae282)
+:::
+:::
+
+## 2023
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2023</span><span class="publication-badge">Research article</span></div>
+
+### Uncovering the temporal dynamics and regulatory networks of thermal stress response in a hyperthermophile using transcriptomics and proteomics
+
+<div class="publication-authors"><strong>Grünberger F</strong>, Schmid G, El Ahmad Z, Fenk M, Vogl K, Reichelt R, Hausner W, Urlaub H, Lenz C, Grohmann D.</div>
+<div class="publication-journal"><em>mBio</em> 14(6): e02174-23.</div>
+
+[DOI →](https://doi.org/10.1128/mbio.02174-23)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2023</span><span class="publication-badge">Research article</span></div>
+
+### Nanopore-based RNA sequencing deciphers the formation, processing, and modification steps of rRNA intermediates in archaea
+
+<div class="publication-authors"><strong>Grünberger F</strong>, Jüttner M, Knüppel R, Ferreira-Cerca S, Grohmann D.</div>
+<div class="publication-journal"><em>RNA</em> 29: 1255–1273.</div>
+
+[DOI →](https://doi.org/10.1261/rna.079636.123)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2023</span><span class="publication-badge">Research article</span></div>
+
+### The transcriptional regulator EarA and intergenic terminator sequences modulate archaellation in *Pyrococcus furiosus*
+
+<div class="publication-authors">Stöckl R, Nißl L, Reichelt R, Rachel R, Grohmann D, <strong>Grünberger F</strong>.</div>
+<div class="publication-journal"><em>Frontiers in Microbiology</em> 14: 1241399.</div>
+
+[DOI →](https://doi.org/10.3389/fmicb.2023.1241399)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2023</span><span class="publication-badge">Research article</span></div>
+
+### The archaeal Lsm protein from *Pyrococcus furiosus* binds co-transcriptionally to poly(U)-rich target RNAs
+
+<div class="publication-authors">Reichelt R, Rothmeier T, <strong>Grünberger F</strong>, Willkomm S, Bruckmann A, Hausner W, et al.</div>
+<div class="publication-journal"><em>Biological Chemistry</em> 404: 1085–1100.</div>
+
+[DOI →](https://doi.org/10.1515/hsz-2023-0215)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2023</span><span class="publication-badge">Research article</span></div>
+
+### Transcriptional and translational dynamics underlying heat shock response in the thermophilic crenarchaeon *Sulfolobus acidocaldarius*
+
+<div class="publication-authors">Baes R, <strong>Grünberger F</strong>, Pyr Dit Ruys S, Couturier M, De Keulenaer S, Skevin S, Van Nieuwerburgh F, Vertommen D, Peeters E.</div>
+<div class="publication-journal"><em>mBio</em> 14(5): e03593-22.</div>
+
+[DOI →](https://doi.org/10.1128/mbio.03593-22)
+:::
+:::
+
+## 2022
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2022</span><span class="publication-badge">Research article</span></div>
+
+### *Methanofollis propanolicus* sp. nov., a novel archaeal isolate from a Costa Rican oil well that uses propanol for methane production
+
+<div class="publication-authors">Dengler L, Meier J, <strong>Grünberger F</strong>, Bellack A, Rachel R, Grohmann D, Huber H.</div>
+<div class="publication-journal"><em>Archives of Microbiology</em> 204: 554.</div>
+
+[DOI →](https://doi.org/10.1007/s00203-022-03152-w)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2022</span><span class="publication-badge">Research article</span></div>
+
+### Nanopore sequencing of RNA and cDNA molecules in *Escherichia coli*
+
+<div class="publication-authors"><strong>Grünberger F</strong>, Ferreira-Cerca S, Grohmann D.</div>
+<div class="publication-journal"><em>RNA</em> 28: 400–417.</div>
+
+[DOI →](https://doi.org/10.1261/rna.078937.121)
+:::
+:::
+
+## 2021
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2021</span><span class="publication-badge">Research article</span></div>
+
+### Insights into synthesis and function of KsgA/Dim1-dependent rRNA modifications in archaea
+
+<div class="publication-authors">Knüppel R, Trahan C, Kern M, Wagner A, <strong>Grünberger F</strong>, Hausner W, Quax TEF, Albers S-V, Oeffinger M, Ferreira-Cerca S.</div>
+<div class="publication-journal"><em>Nucleic Acids Research</em> 49: 1662–1687.</div>
+
+[DOI →](https://doi.org/10.1093/nar/gkaa1268)
+:::
+
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2021</span><span class="publication-badge publication-badge-review">Review</span></div>
+
+### Coupling of transcription and translation in archaea: cues from the bacterial world
+
+<div class="publication-authors">Weixlbaumer A, <strong>Grünberger F</strong>, Werner F, Grohmann D.</div>
+<div class="publication-journal"><em>Frontiers in Microbiology</em> 12: 661827.</div>
+
+[DOI →](https://doi.org/10.3389/fmicb.2021.661827)
+:::
+:::
+
+## 2020
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2020</span><span class="publication-badge">Research article</span></div>
+
+### CopR, a global regulator of transcription to maintain copper homeostasis in *Pyrococcus furiosus*
+
+<div class="publication-authors"><strong>Grünberger F</strong>, Reichelt R, Waege I, Ned V, Bronner K, Kaljanac M, Weber N, El Ahmad Z, Knauss L, et al.</div>
+<div class="publication-journal"><em>Frontiers in Microbiology</em> 11: 613532.</div>
+
+[DOI →](https://doi.org/10.3389/fmicb.2020.613532)
+:::
+:::
+
+## 2019
+
+::: {.publication-grid}
+::: {.publication-card}
+<div class="publication-meta"><span class="publication-year">2019</span><span class="publication-badge">Research article</span></div>
+
+### Next generation DNA-seq and differential RNA-seq allow re-annotation of the *Pyrococcus furiosus* DSM 3638 genome and provide insights into archaeal antisense transcription
+
+<div class="publication-authors"><strong>Grünberger F</strong>, Reichelt R, Bunk B, Spröer C, Overmann J, Rachel R, Grohmann D.</div>
+<div class="publication-journal"><em>Frontiers in Microbiology</em> 10: 1603.</div>
+
+[DOI →](https://doi.org/10.3389/fmicb.2019.01603)
+:::
+:::
+
+<div class="note-box">This page lists final journal publications and the ACS methods book. Preprints and the doctoral dissertation are intentionally excluded.</div>
+:::

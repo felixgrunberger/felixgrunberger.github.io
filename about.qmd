@@ -1,0 +1,69 @@
+---
+pagetitle: "About | Felix Grünberger"
+description: "About Felix Grünberger, molecular biologist working across experimental systems, sequencing, omics and reproducible analysis."
+page-layout: full
+---
+
+::: {.page-hero}
+<div class="eyebrow">ABOUT</div>
+
+# Molecular biology viewed across experiments and data
+
+I am a molecular biologist working at the interface of microbiology, biochemistry, sequencing technology and computational analysis.
+:::
+
+::: {.light-section .content-section}
+::: {.about-layout}
+::: {.about-main}
+## Scientific profile
+
+My research focuses on how prokaryotic cells organize, process and regulate genetic information. I use molecular experiments, short- and long-read sequencing, quantitative analysis and visualization to study transcription, RNA maturation and cellular responses.
+
+A recurring theme in my work is the development of methods that connect experimental observations with genome-scale data. This includes adapting sequencing workflows to non-standard biological systems, defining quality criteria, building reproducible analytical pipelines and communicating complex results across disciplines.
+
+I currently work as an Academic Officer at the University of Regensburg's Microbiology and Archaea Centre, contributing to research, teaching, project development and the supervision of students and researchers.
+
+## Research approach
+
+I treat laboratory methods and computational analysis as parts of the same scientific workflow. Experimental choices determine the data that can be generated, while analytical decisions determine which conclusions those data can support.
+
+This perspective has shaped projects ranging from genome annotation and transcriptional regulation to long-read RNA sequencing, multi-omics analysis and reproducible scientific reporting.
+
+## Teaching and knowledge transfer
+
+I teach molecular microbiology, bioinformatics, statistics and sequencing workflows. I have organized practical courses in Nanopore sequencing and mentored more than 20 students and researchers in experimental design, data analysis and reproducible workflows.
+:::
+
+::: {.about-sidebar}
+<div class="profile-mark">FG</div>
+
+### Current position
+
+Academic Officer  
+University of Regensburg  
+Microbiology and Archaea Centre
+
+### Background
+
+PhD in Biology, magna cum laude  
+MSc and BSc in Biology  
+University of Regensburg
+
+### Research areas
+
+Molecular microbiology  
+RNA biology  
+Sequencing technologies  
+Transcriptomics and multi-omics  
+Reproducible data analysis
+
+### Profiles
+
+[LinkedIn](https://www.linkedin.com/in/felix-gr%C3%BCnberger-b93455111)  
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=3UYj2osAAAAJ)  
+[ORCID](https://orcid.org/0000-0001-7444-2408)  
+[GitHub](https://github.com/felixgrunberger)  
+[Email](mailto:felix-gruenberger@web.de)
+:::
+:::
+:::

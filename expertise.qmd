@@ -1,0 +1,131 @@
+---
+pagetitle: "Expertise | Felix Grünberger"
+description: "Expertise across molecular biology, analytical workflow development, sequencing, omics and reproducible scientific computing."
+page-layout: full
+---
+
+::: {.page-hero}
+<div class="eyebrow">EXPERTISE</div>
+
+# Experimental science connected to quantitative analysis
+
+My work follows the complete path from a biological question to an interpretable result: experimental planning, molecular workflows, quality assessment, computational analysis and communication.
+:::
+
+::: {.light-section .content-section}
+## Molecular and experimental biology
+
+::: {.detail-grid}
+::: {.detail-card}
+<div class="detail-index">01</div>
+
+### Nucleic-acid workflows
+
+DNA and RNA extraction, PCR and RT-qPCR, sample preparation, magnetic-bead cleanup, size selection, quantification and integrity assessment.
+:::
+
+::: {.detail-card}
+<div class="detail-index">02</div>
+
+### Microbiology
+
+Cultivation and experimental work with bacterial and archaeal model systems, including aerobic, anaerobic and extremophilic organisms.
+:::
+
+::: {.detail-card}
+<div class="detail-index">03</div>
+
+### Biochemistry and functional assays
+
+Cloning, recombinant protein expression, chromatographic purification, plate-reader assays, UV-based measurements and mass photometry.
+:::
+:::
+
+## Analytical workflow development
+
+::: {.detail-grid}
+::: {.detail-card}
+<div class="detail-index">04</div>
+
+### Method development
+
+Selection, adaptation and benchmarking of experimental approaches for non-standard samples, biological systems and research questions.
+:::
+
+::: {.detail-card}
+<div class="detail-index">05</div>
+
+### Quality and troubleshooting
+
+Definition of sample-QC criteria, identification of workflow risks, technical troubleshooting and evidence-based method selection.
+:::
+
+::: {.detail-card}
+<div class="detail-index">06</div>
+
+### Documentation and transfer
+
+Structured protocols, ELN-based tracking, technical documentation and clear handover between experimental and analytical stages.
+:::
+:::
+
+## Sequencing and omics
+
+::: {.detail-grid}
+::: {.detail-card}
+<div class="detail-index">07</div>
+
+### Illumina sequencing
+
+RNA-seq, differential RNA-seq, Term-seq, ChIP-seq and related short-read approaches for transcriptome and regulatory analysis.
+:::
+
+::: {.detail-card}
+<div class="detail-index">08</div>
+
+### Oxford Nanopore
+
+DNA, plasmid, cDNA and RNA sequencing, including library strategy, workflow benchmarking, transcript-boundary analysis and long-read interpretation.
+:::
+
+::: {.detail-card}
+<div class="detail-index">09</div>
+
+### Multi-omics integration
+
+Combination of transcriptomic, proteomic and complementary molecular datasets to identify regulatory patterns and connect changes across scales.
+:::
+:::
+
+## Data analysis and digital workflows
+
+::: {.detail-grid}
+::: {.detail-card}
+<div class="detail-index">10</div>
+
+### Statistical analysis in R
+
+R, tidyverse, Bioconductor and DESeq2 for data transformation, statistical evaluation, visualization and biological interpretation.
+:::
+
+::: {.detail-card}
+<div class="detail-index">11</div>
+
+### Reproducible computation
+
+Version-controlled analysis, Bash, Nextflow, Quarto and structured project organization for transparent and reusable workflows.
+:::
+
+::: {.detail-card}
+<div class="detail-index">12</div>
+
+### Reporting and knowledge transfer
+
+Publication-quality figures, interactive Shiny applications, technical documentation, teaching and web-based scientific reporting.
+:::
+:::
+
+<div class="tool-strip">
+<span>R / Bioconductor</span><span>Nextflow</span><span>Bash</span><span>Python</span><span>SQL</span><span>Quarto</span><span>Shiny</span><span>Git</span>
+</div>
+:::

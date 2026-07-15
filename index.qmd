@@ -1,0 +1,302 @@
+---
+pagetitle: "Felix Grünberger, PhD | Molecular Biology, Sequencing and Data"
+description: "Scientific portfolio connecting molecular experiments, analytical workflows, sequencing, omics and reproducible data analysis."
+page-layout: full
+body-classes: home-page
+---
+
+::: {.hero-section}
+::: {.hero-grid}
+
+::: {.hero-content}
+<div class="eyebrow">MOLECULAR BIOLOGY · ANALYTICAL WORKFLOWS · DATA</div>
+
+# Connecting molecular experiments with reliable, interpretable data
+
+I combine experimental biology with sequencing and quantitative analysis to generate high-quality data from complex biological systems.
+
+My work spans experimental design, sample quality, workflow development, analysis and communication — with a focus on robust methods and clear biological interpretation.
+
+<div class="hero-highlights" aria-label="Core areas">
+<span>Experimental biology</span>
+<span>Sequencing & omics</span>
+<span>Data analysis</span>
+<span>Reproducible workflows</span>
+</div>
+
+::: {.hero-buttons}
+[Selected projects](work.qmd){.btn .btn-primary .btn-lg}
+[Publications](publications.qmd){.btn .btn-outline-primary .btn-lg}
+:::
+
+:::
+
+::: {.hero-visual}
+<div class="workflow-panel" data-workflow-panel aria-label="Interactive workflow from experimental systems to interpretation">
+<div class="workflow-panel-header">
+<div>
+<div class="workflow-panel-label">FROM QUESTION TO INTERPRETATION</div>
+<p>Move through the steps to see how experiments and analysis connect.</p>
+</div>
+<div class="workflow-pulse" aria-hidden="true"><span></span><span></span><span></span></div>
+</div>
+<div class="workflow-stack" role="list">
+<div class="workflow-line" aria-hidden="true"></div>
+<button class="workflow-step is-active" type="button" data-workflow-step="1" data-summary="Define the question, controls and readouts that make the experiment interpretable." aria-pressed="true">
+<span class="workflow-marker">01</span>
+<span class="workflow-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 3h6M10 3v5l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3M8 14h8M9 17h.01M13 16h.01"/></svg></span>
+<span class="workflow-step-copy"><strong>Experimental systems</strong><small>Molecular biology · Microbiology · Biochemistry</small></span>
+</button>
+<button class="workflow-step" type="button" data-workflow-step="2" data-summary="Build the workflow around sample quality, method fit and practical constraints." aria-pressed="false">
+<span class="workflow-marker">02</span>
+<span class="workflow-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 3h8M9 3v4l-2 3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-9l-2-3V3M7 11h10M19 4l2 2-2 2M21 6h-4"/></svg></span>
+<span class="workflow-step-copy"><strong>Molecular workflows</strong><small>Sample preparation · Sequencing · Quality control</small></span>
+</button>
+<button class="workflow-step" type="button" data-workflow-step="3" data-summary="Evaluate quality, integrate the data and keep the analysis fully reproducible." aria-pressed="false">
+<span class="workflow-marker">03</span>
+<span class="workflow-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 20V10m5 10V4m6 16v-7m5 7V7M2 20h20"/></svg></span>
+<span class="workflow-step-copy"><strong>Data quality &amp; analysis</strong><small>Omics · Statistics · Reproducible workflows</small></span>
+</button>
+<button class="workflow-step" type="button" data-workflow-step="4" data-summary="Turn the results into interpretation, documentation and clear knowledge transfer." aria-pressed="false">
+<span class="workflow-marker">04</span>
+<span class="workflow-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4V5Zm4 5h.01M12 10h.01M16 10h.01"/></svg></span>
+<span class="workflow-step-copy"><strong>Interpretation &amp; communication</strong><small>Visualization · Documentation · Knowledge transfer</small></span>
+</button>
+</div>
+<div class="workflow-response" aria-live="polite"><span class="workflow-response-label">CURRENT FOCUS</span><span class="workflow-response-text" data-workflow-response>Define the question, controls and readouts that make the experiment interpretable.</span></div>
+<svg class="workflow-wave" viewBox="0 0 760 180" preserveAspectRatio="none" aria-hidden="true">
+<defs><linearGradient id="waveFade" x1="0" x2="1"><stop offset="0" stop-color="#4f879e" stop-opacity="0"/><stop offset=".45" stop-color="#4f879e" stop-opacity=".18"/><stop offset="1" stop-color="#4f879e" stop-opacity=".02"/></linearGradient></defs>
+<g fill="none" stroke="url(#waveFade)" stroke-width="1.2"><path d="M-30 140C110 22 230 214 388 96S620 20 800 128"/><path d="M-30 151C115 40 242 222 398 111S632 35 800 141"/><path d="M-30 162C120 58 250 230 410 126S644 50 800 154"/><path d="M-30 129C104 4 220 205 376 82S608 5 800 115"/><path d="M-30 118C95-15 210 195 364 68S596-10 800 102"/></g>
+</svg>
+</div>
+:::
+
+:::
+:::
+
+::: {.home-section .expertise-section .reveal}
+<div class="section-kicker">EXPERTISE</div>
+
+## From molecular systems to interpretable data
+
+A broad experimental foundation combined with quantitative analysis, quality-aware workflow development and reproducible scientific computing.
+
+::: {.expertise-grid}
+::: {.expertise-card}
+<div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 3h6M10 3v5l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3M8 14h8"/></svg></div>
+
+### Molecular & experimental biology
+
+Experimental design across molecular biology, microbiology and biochemistry, including nucleic-acid, protein and functional assays.
+
+<div class="skill-tags"><span>Molecular biology</span><span>Microbiology</span><span>Assays</span></div>
+:::
+
+::: {.expertise-card}
+<div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 4h14M7 4v4l-2 3v8a2 2 0 0 0 2 2h3a2 2 0 0 0 2-2v-8l-2-3V4M14 8h5M16 8v4l-2 3v4a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-4l-2-3V8"/></svg></div>
+
+### Analytical workflow development
+
+Method selection, sample preparation, QC criteria, troubleshooting and adaptation to non-standard biological systems.
+
+<div class="skill-tags"><span>Sample prep</span><span>QC</span><span>Method development</span></div>
+:::
+
+::: {.expertise-card}
+<div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M7 3c5 3 5 15 10 18M17 3C12 6 12 18 7 21M8 6h8M7 10h10M7 14h10M8 18h8"/></svg></div>
+
+### Sequencing & omics
+
+Short- and long-read workflows for DNA and RNA, from sample preparation and quality control to analysis-ready data.
+
+<div class="skill-tags"><span>Illumina</span><span>Nanopore</span><span>Transcriptomics</span></div>
+:::
+
+::: {.expertise-card}
+<div class="card-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 20V10m5 10V4m6 16v-7m5 7V7M2 20h20"/></svg></div>
+
+### Data analysis & reproducible workflows
+
+Statistical analysis, visualization and biological interpretation using R, Bioconductor and complementary computational tools.
+
+<div class="skill-tags"><span>R / Bioconductor</span><span>Statistics</span><span>Quarto</span></div>
+:::
+:::
+
+<div class="section-link">[Explore methods and expertise →](expertise.qmd)</div>
+:::
+
+::: {.home-section .projects-section .reveal}
+<div class="section-kicker">SELECTED PROJECTS</div>
+
+## Work built around questions, quality and interpretation
+
+Each project connects the biological question with the method, the data-quality strategy and the way results are communicated.
+
+::: {.project-preview-grid}
+::: {.project-preview-card}
+<img src="images/project-longread.svg" alt="Stylized long-read RNA workflow." class="project-preview-image">
+<div class="project-kicker">SINGLE-MOLECULE SEQUENCING</div>
+
+### Resolving RNA heterogeneity and processing
+
+Nanopore RNA and cDNA workflows developed to reveal transcript boundaries, processing intermediates and complete molecular states.
+
+[View project →](work.qmd#long-read-rna-biology)
+:::
+
+::: {.project-preview-card}
+<img src="images/project-multiomics.svg" alt="Stylized transcriptomics and proteomics integration." class="project-preview-image">
+<div class="project-kicker">TRANSCRIPTOMICS × PROTEOMICS</div>
+
+### Following stress responses across molecular layers
+
+Time-resolved integration of transcript and protein data to distinguish immediate regulation from delayed cellular responses.
+
+[View project →](work.qmd#multi-omics-stress-response)
+:::
+
+::: {.project-preview-card}
+<img src="images/project-quality.svg" alt="Stylized sample quality and workflow evaluation." class="project-preview-image">
+<div class="project-kicker">SAMPLE QC × WORKFLOW EVALUATION</div>
+
+### Designing workflows around data quality
+
+Sample integrity, method fit, controls and documentation considered together before complex workflows move into routine use.
+
+[View project →](work.qmd#quality-aware-workflows)
+:::
+:::
+
+<div class="section-link">[See all selected projects →](work.qmd)</div>
+:::
+
+::: {.home-section .evidence-section .reveal}
+<div class="section-kicker">AT A GLANCE</div>
+
+<style>
+.evidence-section .evidence-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.evidence-section .evidence-item {
+  border-right: 1px solid var(--line);
+  border-bottom: 0;
+}
+.evidence-section .evidence-item:nth-child(3n) {
+  border-right: 0;
+}
+.evidence-section .evidence-item:nth-child(-n+3) {
+  border-bottom: 1px solid var(--line);
+}
+.evidence-section .evidence-number.evidence-word {
+  font-size: clamp(1.35rem, 2.1vw, 1.9rem);
+  line-height: 1.08;
+  letter-spacing: -.035em;
+}
+@media (max-width: 991.98px) {
+  .evidence-section .evidence-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .evidence-section .evidence-item,
+  .evidence-section .evidence-item:nth-child(3n),
+  .evidence-section .evidence-item:nth-child(-n+3) {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .evidence-section .evidence-item:nth-child(odd) {
+    border-right: 1px solid var(--line);
+  }
+  .evidence-section .evidence-item:nth-last-child(-n+2) {
+    border-bottom: 0;
+  }
+}
+@media (max-width: 680px) {
+  .evidence-section .evidence-grid {
+    grid-template-columns: 1fr;
+  }
+  .evidence-section .evidence-item,
+  .evidence-section .evidence-item:nth-child(odd),
+  .evidence-section .evidence-item:nth-child(3n),
+  .evidence-section .evidence-item:nth-child(-n+3),
+  .evidence-section .evidence-item:nth-last-child(-n+2) {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .evidence-section .evidence-item:last-child {
+    border-bottom: 0;
+  }
+}
+</style>
+
+::: {.evidence-grid}
+::: {.evidence-item}
+<div class="evidence-number">10+</div>
+<div class="evidence-label">years across molecular biology, sequencing and quantitative analysis</div>
+:::
+
+::: {.evidence-item}
+<div class="evidence-number">17</div>
+<div class="evidence-label">peer-reviewed publications from interdisciplinary and international collaborations</div>
+:::
+
+::: {.evidence-item}
+<div class="evidence-number evidence-word">End-to-end</div>
+<div class="evidence-label">workflow experience from study design and sample QC to analysis and interpretation</div>
+:::
+
+::: {.evidence-item}
+<div class="evidence-number evidence-word">Academic + industry</div>
+<div class="evidence-label">collaborative workflow development, platform evaluation and technical problem-solving</div>
+:::
+
+::: {.evidence-item}
+<div class="evidence-number evidence-word">Technical support</div>
+<div class="evidence-label">method selection, difficult samples, troubleshooting and data interpretation</div>
+:::
+
+::: {.evidence-item}
+<div class="evidence-number evidence-word">Reusable methods</div>
+<div class="evidence-label">documented workflows, pipelines and training that support adoption across teams</div>
+:::
+:::
+:::
+
+::: {.home-section .publication-preview-section .reveal}
+<div class="section-kicker">RECENT OUTPUT</div>
+
+## Selected publications
+
+::: {.publication-preview-grid}
+::: {.publication-preview-card}
+<div class="publication-year">2026 · PLOS Genetics</div>
+
+### CsmR controls motility and cell shape in *Haloferax volcanii*
+
+Comparative transcriptomics and ChIP-seq identify a regulator connecting archaeal motility and morphology.
+
+[Open publication →](https://doi.org/10.1371/journal.pgen.1012198)
+:::
+
+::: {.publication-preview-card}
+<div class="publication-year">2025 · Cell</div>
+
+### Pan-modification profiling of the thermoregulated ribosomal epitranscriptome
+
+Cross-species analysis of dynamic ribosomal RNA modifications and thermal adaptation.
+
+[Open publication →](https://doi.org/10.1016/j.cell.2025.09.014)
+:::
+
+::: {.publication-preview-card}
+<div class="publication-year">2025 · ACS In Focus</div>
+
+### Single-Molecule Sequencing of RNA
+
+A methods-focused guide to RNA sequencing using single-molecule technologies.
+
+[Open publication →](https://doi.org/10.1021/acsinfocus.7e9002)
+:::
+:::
+
+<div class="section-link">[View complete publication list →](publications.qmd)</div>
+:::
